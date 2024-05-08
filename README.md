@@ -7,6 +7,4 @@ This website had to be simple to avoid distractions but ALSO be able to provide 
 
 This website can be viewed at https://reiyua.github.io/TiptoeSoleStore/
 
-Video demonstration of website accessibility as part of the assessment can be viewed below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iFYBjd27IC4?si=Cx2PNHIbotyUwhPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Video demonstration of website accessibility as part of the assessment can be viewed here: https://youtu.be/iFYBjd27IC4
